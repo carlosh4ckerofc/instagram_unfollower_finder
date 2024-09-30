@@ -10,6 +10,10 @@ The IG Unfollower Finder helps you track who has unfollowed you on Instagram. Th
 
 ---
 
+# install module
+
 `pip install instaloader`
 
-[![Download Repository](https://img.shields.io/badge/Download%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/your-repo/IG-Unfollower-Finder/archive/refs/heads/main.zip)
+# run:- `python main.py`
+
+[![Download Repository](https://img.shields.io/badge/Download%20Repository-blue?style=for-the-badge&logo=github)](https://github.com/carlosh4ckerofc/instagram_unfollower_finder.git)
